@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: Lib
-Bundle-SymbolicName: lib
-Bundle-Version: 1.0.0
-Automatic-Module-Name: lib
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
