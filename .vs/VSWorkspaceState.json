@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\APBD",
-    "\\APBD\\EntityFrameWork_cw10"
+    "\\APBD\\CodeFirst",
+    "\\APBD\\jas",
+    "\\Java_4sem",
+    "\\Java_4sem\\NAI_proj1"
   ],
-  "SelectedNode": "\\APBD\\EntityFrameWork_cw10\\EntityFrameWork_cw10.sln",
+  "SelectedNode": "\\Java_4sem\\NAI_proj1\\Script.sql",
   "PreviewInSolutionExplorer": false
 }
